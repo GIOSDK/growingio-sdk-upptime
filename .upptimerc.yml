@@ -11,6 +11,8 @@ sites:
     url: https://assets.giocdn.com/sdk/minip/4.3.0/gio-wechat.js
   - name: Apple SDK
     url: https://cdn.jsdelivr.net/cocoa/Specs/6/9/7/GrowingAnalytics/4.4.0/GrowingAnalytics.podspec.json
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   baseUrl: /growingio-sdk-upptime
