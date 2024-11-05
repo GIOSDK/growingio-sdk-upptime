@@ -77,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.growingio.com.ico",
     "slug": "test-broken-site",
     "status": "up",
-    "uptime": "0.53%",
-    "uptimeDay": "0.53%",
-    "uptimeWeek": "0.53%",
-    "uptimeMonth": "0.53%",
-    "uptimeYear": "0.53%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2097,
     "timeDay": 2097,
     "timeWeek": 2097,
     "timeMonth": 2097,
     "timeYear": 2097,
-    "dailyMinutesDown": {
-      "2024-11-05": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
