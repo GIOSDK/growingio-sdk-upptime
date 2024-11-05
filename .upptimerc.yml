@@ -12,7 +12,7 @@ sites:
   - name: Apple SDK
     url: https://cdn.jsdelivr.net/cocoa/Specs/6/9/7/GrowingAnalytics/4.4.0/GrowingAnalytics.podspec.json
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://www.growingio.com
 
 status-website:
   baseUrl: /growingio-sdk-upptime
