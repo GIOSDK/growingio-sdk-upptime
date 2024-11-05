@@ -1,29 +1,21 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: GIOSDK # Your GitHub organization or username, where this repository lives
+repo: growingio-sdk-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Android SDK
+    url: https://s01.oss.sonatype.org/content/repositories/releases/com/growingio/
+  - name: Web JS SDK
+    url: https://assets.giocdn.com/sdk/webjs/gdp-full.js
+  - name: Minp SDK (Wechat)
+    url: https://assets.giocdn.com/sdk/minip/4.3.0/gio-wechat.js
+  - name: Apple SDK
+    url: https://cdn.jsdelivr.net/cocoa/Specs/6/9/7/GrowingAnalytics/4.4.0/GrowingAnalytics.podspec.json
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  baseUrl: /growingio-sdk-upptime
+  logoUrl: https://www.growingio.com/vassets/images/home_v3/gio-logo-primary.svg
+  name: GrowingIO
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
