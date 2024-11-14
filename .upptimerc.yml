@@ -12,7 +12,7 @@ sites:
   - name: Apple SDK
     url: https://cdn.jsdelivr.net/cocoa/Specs/6/9/7/GrowingAnalytics/4.4.0/GrowingAnalytics.podspec.json
   - name: HarmonyOS NEXT SDK
-    url: https://repo.harmonyos.com/ohpm/@growingio/analytics/-/analytics-2.0.1.har
+    url: https://repo.harmonyos.com/ohpm/@growingio/analytics/-/analytics-2.1.0.har
   - name: Flutter SDK
     url: https://pub.dev/api/archives/growingio_flutter_plugin-4.2.0.tar.gz
   - name: Go SDK
