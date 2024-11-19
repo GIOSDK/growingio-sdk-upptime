@@ -4,19 +4,19 @@
     "url": "https://s01.oss.sonatype.org/content/repositories/releases/com/growingio/",
     "icon": "https://icons.duckduckgo.com/ip3/s01.oss.sonatype.org.ico",
     "slug": "android-sdk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 129,
-    "timeWeek": 176,
-    "timeMonth": 472,
-    "timeYear": 472,
+    "status": "up",
+    "uptime": "98.26%",
+    "uptimeDay": "74.61%",
+    "uptimeWeek": "96.37%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "98.26%",
+    "time": 452,
+    "timeDay": 105,
+    "timeWeek": 164,
+    "timeMonth": 452,
+    "timeYear": 452,
     "dailyMinutesDown": {
-      "2024-11-19": 0
+      "2024-11-19": 366
     }
   },
   {
