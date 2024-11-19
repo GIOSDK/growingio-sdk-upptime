@@ -4,18 +4,20 @@
     "url": "https://s01.oss.sonatype.org/content/repositories/releases/com/growingio/",
     "icon": "https://icons.duckduckgo.com/ip3/s01.oss.sonatype.org.ico",
     "slug": "android-sdk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 490,
-    "timeDay": 136,
-    "timeWeek": 183,
-    "timeMonth": 490,
-    "timeYear": 490,
-    "dailyMinutesDown": {}
+    "time": 472,
+    "timeDay": 129,
+    "timeWeek": 176,
+    "timeMonth": 472,
+    "timeYear": 472,
+    "dailyMinutesDown": {
+      "2024-11-19": 0
+    }
   },
   {
     "name": "Web JS SDK",
