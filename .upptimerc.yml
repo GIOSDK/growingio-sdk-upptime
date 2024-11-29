@@ -21,8 +21,6 @@ sites:
     url: https://files.pythonhosted.org/packages/44/68/db719d017a50520c3fdef7958afef5ec67c980117d6b7df713c3ad440cd4/growingio_tracker-1.0.5.tar.gz
   - name: Java SDK
     url: https://repo1.maven.org/maven2/io/growing/sdk/java/growingio-java-sdk/1.0.16-cdp/
-  - name: Offical Site
-    url: https://www.growingio.com
 
 status-website:
   baseUrl: /growingio-sdk-upptime
