@@ -168,19 +168,19 @@
     "url": "https://www.growingio.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.growingio.com.ico",
     "slug": "offical-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2204,
-    "timeDay": 2220,
-    "timeWeek": 2283,
-    "timeMonth": 2204,
-    "timeYear": 2204,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 2188,
+    "timeDay": 1998,
+    "timeWeek": 2219,
+    "timeMonth": 2188,
+    "timeYear": 2188,
     "dailyMinutesDown": {
-      "2024-11-29": 0
+      "2024-11-29": 50
     }
   }
 ]
