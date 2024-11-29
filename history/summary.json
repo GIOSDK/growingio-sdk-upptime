@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/s01.oss.sonatype.org.ico",
     "slug": "android-sdk",
     "status": "up",
-    "uptime": "98.93%",
+    "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
     "time": 370,
     "timeDay": 246,
     "timeWeek": 206,
@@ -168,9 +168,9 @@
     "url": "https://www.growingio.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.growingio.com.ico",
     "slug": "offical-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,6 +179,8 @@
     "timeWeek": 2283,
     "timeMonth": 2204,
     "timeYear": 2204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-29": 0
+    }
   }
 ]
