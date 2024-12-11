@@ -3,8 +3,10 @@ owner: GIOSDK # Your GitHub organization or username, where this repository live
 repo: growingio-sdk-upptime # The name of this repository
 
 sites:
-  - name: Android SDK
+  - name: Android SDK（Sonatype)
     url: https://s01.oss.sonatype.org/content/repositories/releases/com/growingio/
+  - name: Android SDK（Maven)
+    url: https://repo.maven.apache.org/maven2/com/growingio/
   - name: Web JS SDK
     url: https://assets.giocdn.com/sdk/webjs/gdp-full.js
   - name: Minp SDK (Wechat)
