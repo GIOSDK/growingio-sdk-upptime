@@ -1,29 +1,5 @@
 [
   {
-    "name": "Android SDK（Sonatype)",
-    "url": "https://s01.oss.sonatype.org/content/repositories/releases/com/growingio/",
-    "icon": "https://icons.duckduckgo.com/ip3/s01.oss.sonatype.org.ico",
-    "slug": "android-sdk-sonatype",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.73%",
-    "time": 286,
-    "timeDay": 310,
-    "timeWeek": 245,
-    "timeMonth": 219,
-    "timeYear": 286,
-    "dailyMinutesDown": {
-      "2025-05-28": 40,
-      "2025-04-20": 74,
-      "2025-04-03": 22,
-      "2025-03-21": 107,
-      "2025-03-20": 431
-    }
-  },
-  {
     "name": "Android SDK（Maven)",
     "url": "https://repo.maven.apache.org/maven2/com/growingio/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.maven.apache.org.ico",
@@ -61,7 +37,7 @@
   },
   {
     "name": "Minp SDK (Wechat)",
-    "url": "https://assets.giocdn.com/sdk/minip/4.3.0/gio-wechat.js",
+    "url": "https://assets.giocdn.com/sdk/minip/4.4.1/gio-wechat.js",
     "icon": "https://icons.duckduckgo.com/ip3/assets.giocdn.com.ico",
     "slug": "minp-sdk-wechat",
     "status": "up",
@@ -79,7 +55,7 @@
   },
   {
     "name": "Apple SDK",
-    "url": "https://cdn.jsdelivr.net/cocoa/Specs/6/9/7/GrowingAnalytics/4.4.0/GrowingAnalytics.podspec.json",
+    "url": "https://cdn.jsdelivr.net/cocoa/Specs/6/9/7/GrowingAnalytics/4.7.0/GrowingAnalytics.podspec.json",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.jsdelivr.net.ico",
     "slug": "apple-sdk",
     "status": "up",
@@ -97,7 +73,7 @@
   },
   {
     "name": "HarmonyOS NEXT SDK",
-    "url": "https://repo.harmonyos.com/ohpm/@growingio/analytics/-/analytics-2.1.0.har",
+    "url": "https://repo.harmonyos.com/ohpm/@growingio/analytics/-/analytics-2.3.0.har",
     "icon": "https://icons.duckduckgo.com/ip3/repo.harmonyos.com.ico",
     "slug": "harmony-os-next-sdk",
     "status": "up",
@@ -117,7 +93,7 @@
   },
   {
     "name": "Flutter SDK",
-    "url": "https://pub.dev/api/archives/growingio_flutter_plugin-4.2.0.tar.gz",
+    "url": "https://pub.dev/api/archives/growingio_flutter_plugin-4.3.2.tar.gz",
     "icon": "https://icons.duckduckgo.com/ip3/pub.dev.ico",
     "slug": "flutter-sdk",
     "status": "up",
@@ -135,7 +111,7 @@
   },
   {
     "name": "Go SDK",
-    "url": "https://github.com/growingio/growingio-sdk-go/tree/v1.0.0",
+    "url": "https://github.com/growingio/growingio-sdk-go/tree/v1.0.1",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "go-sdk",
     "status": "up",
@@ -171,7 +147,7 @@
   },
   {
     "name": "Java SDK",
-    "url": "https://repo1.maven.org/maven2/io/growing/sdk/java/growingio-java-sdk/1.0.16-cdp/",
+    "url": "https://repo1.maven.org/maven2/io/growing/sdk/java/growingio-java-sdk/1.0.19-cdp/",
     "icon": "https://icons.duckduckgo.com/ip3/repo1.maven.org.ico",
     "slug": "java-sdk",
     "status": "up",
