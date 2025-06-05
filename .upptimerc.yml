@@ -3,26 +3,24 @@ owner: GIOSDK # Your GitHub organization or username, where this repository live
 repo: growingio-sdk-upptime # The name of this repository
 
 sites:
-  - name: Android SDK（Sonatype)
-    url: https://s01.oss.sonatype.org/content/repositories/releases/com/growingio/
   - name: Android SDK（Maven)
     url: https://repo.maven.apache.org/maven2/com/growingio/
   - name: Web JS SDK
     url: https://assets.giocdn.com/sdk/webjs/gdp-full.js
   - name: Minp SDK (Wechat)
-    url: https://assets.giocdn.com/sdk/minip/4.3.0/gio-wechat.js
+    url: https://assets.giocdn.com/sdk/minip/4.4.1/gio-wechat.js
   - name: Apple SDK
-    url: https://cdn.jsdelivr.net/cocoa/Specs/6/9/7/GrowingAnalytics/4.4.0/GrowingAnalytics.podspec.json
+    url: https://cdn.jsdelivr.net/cocoa/Specs/6/9/7/GrowingAnalytics/4.7.0/GrowingAnalytics.podspec.json
   - name: HarmonyOS NEXT SDK
-    url: https://repo.harmonyos.com/ohpm/@growingio/analytics/-/analytics-2.1.0.har
+    url: https://repo.harmonyos.com/ohpm/@growingio/analytics/-/analytics-2.3.0.har
   - name: Flutter SDK
-    url: https://pub.dev/api/archives/growingio_flutter_plugin-4.2.0.tar.gz
+    url: https://pub.dev/api/archives/growingio_flutter_plugin-4.3.2.tar.gz
   - name: Go SDK
-    url: https://github.com/growingio/growingio-sdk-go/tree/v1.0.0
+    url: https://github.com/growingio/growingio-sdk-go/tree/v1.0.1
   - name: Python SDK
     url: https://files.pythonhosted.org/packages/44/68/db719d017a50520c3fdef7958afef5ec67c980117d6b7df713c3ad440cd4/growingio_tracker-1.0.5.tar.gz
   - name: Java SDK
-    url: https://repo1.maven.org/maven2/io/growing/sdk/java/growingio-java-sdk/1.0.16-cdp/
+    url: https://repo1.maven.org/maven2/io/growing/sdk/java/growingio-java-sdk/1.0.19-cdp/
 
 status-website:
   baseUrl: /growingio-sdk-upptime
