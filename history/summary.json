@@ -40,19 +40,19 @@
     "url": "https://assets.giocdn.com/sdk/minip/4.4.1/gio-wechat.js",
     "icon": "https://icons.duckduckgo.com/ip3/assets.giocdn.com.ico",
     "slug": "minp-sdk-wechat",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 7,
-    "timeWeek": 279,
-    "timeMonth": 220,
-    "timeYear": 224,
+    "time": 223,
+    "timeDay": 5,
+    "timeWeek": 245,
+    "timeMonth": 214,
+    "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-06-20": 0
+      "2025-06-20": 16
     }
   },
   {
