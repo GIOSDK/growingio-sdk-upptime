@@ -40,9 +40,9 @@
     "url": "https://assets.giocdn.com/sdk/minip/4.4.1/gio-wechat.js",
     "icon": "https://icons.duckduckgo.com/ip3/assets.giocdn.com.ico",
     "slug": "minp-sdk-wechat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 279,
     "timeMonth": 220,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-20": 0
+    }
   },
   {
     "name": "Apple SDK",
