@@ -120,9 +120,9 @@
     "url": "https://github.com/growingio/growingio-sdk-go/tree/v1.0.1",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "go-sdk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -131,7 +131,9 @@
     "timeWeek": 534,
     "timeMonth": 523,
     "timeYear": 516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-31": 0
+    }
   },
   {
     "name": "Python SDK",
