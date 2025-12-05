@@ -4,18 +4,20 @@
     "url": "https://repo.maven.apache.org/maven2/com/growingio/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.maven.apache.org.ico",
     "slug": "android-sdk-maven",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 78,
-    "timeDay": 157,
-    "timeWeek": 177,
-    "timeMonth": 121,
+    "timeDay": 100,
+    "timeWeek": 161,
+    "timeMonth": 119,
     "timeYear": 78,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-05": 0
+    }
   },
   {
     "name": "Web JS SDK",
@@ -159,17 +161,19 @@
     "url": "https://repo1.maven.org/maven2/io/growing/sdk/java/growingio-java-sdk/1.0.19-cdp/",
     "icon": "https://icons.duckduckgo.com/ip3/repo1.maven.org.ico",
     "slug": "java-sdk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 70,
-    "timeDay": 109,
-    "timeWeek": 113,
-    "timeMonth": 100,
+    "timeDay": 77,
+    "timeWeek": 104,
+    "timeMonth": 99,
     "timeYear": 72,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-05": 0
+    }
   }
 ]
