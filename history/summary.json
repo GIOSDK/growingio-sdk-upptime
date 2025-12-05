@@ -4,19 +4,19 @@
     "url": "https://repo.maven.apache.org/maven2/com/growingio/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.maven.apache.org.ico",
     "slug": "android-sdk-maven",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 78,
-    "timeDay": 100,
-    "timeWeek": 161,
-    "timeMonth": 119,
+    "timeDay": 97,
+    "timeWeek": 153,
+    "timeMonth": 118,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2025-12-05": 0
+      "2025-12-05": 33
     }
   },
   {
@@ -161,19 +161,19 @@
     "url": "https://repo1.maven.org/maven2/io/growing/sdk/java/growingio-java-sdk/1.0.19-cdp/",
     "icon": "https://icons.duckduckgo.com/ip3/repo1.maven.org.ico",
     "slug": "java-sdk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 70,
     "timeDay": 77,
-    "timeWeek": 104,
-    "timeMonth": 99,
+    "timeWeek": 101,
+    "timeMonth": 98,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2025-12-05": 0
+      "2025-12-05": 33
     }
   }
 ]
