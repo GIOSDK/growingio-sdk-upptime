@@ -1,7 +1,7 @@
 url: https://repo.maven.apache.org/maven2/com/growingio/
-status: down
-code: 403
-responseTime: 40
-lastUpdated: 2026-01-06T10:56:48.867Z
+status: up
+code: 200
+responseTime: 62
+lastUpdated: 2026-01-06T11:43:35.388Z
 startTime: 2024-12-11T09:42:10.711Z
 generator: Upptime <https://github.com/upptime/upptime>
