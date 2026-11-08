@@ -1,7 +1,7 @@
 url: https://github.com/growingio/growingio-sdk-go/tree/v1.0.1
-status: up
-code: 200
-responseTime: 748
-lastUpdated: 2026-11-08T01:56:22.961Z
+status: down
+code: 504
+responseTime: 156
+lastUpdated: 2026-11-08T09:31:11.413Z
 startTime: 2024-11-05T08:48:06.509Z
 generator: Upptime <https://github.com/upptime/upptime>
